@@ -4,6 +4,7 @@ Estou me aventurando há poucos meses nesse mundo totalmente novo para mim, busc
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java()](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![JavaScript()](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
